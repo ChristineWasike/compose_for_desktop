@@ -8,4 +8,8 @@ It's worth noting that this framework provides a declarative and reactive approa
 At it's core, Coompose for Desktop allows you to declare your desktop UI in code by combining composable functions.
 
 
-![Application running](screen2.gif)
+<!-- ![Application running](screen2.gif) -->
+<div align="center">
+    <img src="screen2.gif" width="250" height="250" />
+</div>
+
